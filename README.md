@@ -1,5 +1,3 @@
-# html-product-catalog
-A beginner-friendly product catalog website built with pure HTML, showcasing structured product listings and media elements for learning web development fundamentals.
 # HTML Product Catalog
 
 This is a simple product catalog website built using pure HTML.  
